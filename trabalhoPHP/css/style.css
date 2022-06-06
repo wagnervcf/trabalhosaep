@@ -1,0 +1,24 @@
+.card-body{
+    background-color: rgb(174, 230, 230);
+}
+
+.field1{
+    width: 9vh;
+  }
+  
+.container{
+    background-color: rgb(204,226,226);
+}
+
+.Equip{
+    color: rgb(53,121,125);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.image{
+    width: 250px;
+    
+    color: rgb(204,226,226);
+    border: solid;
+}
