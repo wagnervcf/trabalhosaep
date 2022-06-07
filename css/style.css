@@ -1,0 +1,55 @@
+.card-body{
+    background-color: rgb(174, 230, 230);
+}
+
+.senhaform{
+    margin-left: 99px;
+  }
+  
+.container{
+    background-color: rgb(204,226,226);
+}
+
+.Equip{
+    color: rgb(53,121,125);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image{
+    width: 250px;
+    color: rgb(204,226,226);
+    border: solid;
+}
+
+#senhaform tr td input {
+    border-color: rgb(174, 230, 230);
+    border-radius: 50px;
+    width: 51px;
+    padding: 12px;
+    margin-left: 8px;
+    font-size: 20px;
+}
+
+.Limpar input{
+    font-size: 20px !important;
+}
+
+.Entrar input{
+    border-radius: 50px;
+    font-size: 20px !important;
+}
+
+.btncadastrar{
+    border-radius: 10px;
+    color: white;
+    border-color: rgb(53,121,125);
+    background-color: rgb(53,121,125);
+}
+
+.btnexcluir{
+    border-radius: 10px;
+    color: white;
+    border-color: rgb(0, 0,     0);
+    background-color: rgb(0, 0, 0);
+}
